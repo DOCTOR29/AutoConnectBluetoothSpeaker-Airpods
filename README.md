@@ -2,6 +2,7 @@
 AutoConnectBTSpeaker/airpods On Startup and after wake up from sleep
  
 1.Download the release app and extract it
+
 2.open  system settings>General>login Items> open at login 
 and select living_room_speaker_speaker_connect.app from extracted zip file
 3. open content of living_room_speaker_connect.app by command+clicking it and navigate to open file /living_room_speaker_connect.app/Contents/Resources/Scripts/main.scpt
