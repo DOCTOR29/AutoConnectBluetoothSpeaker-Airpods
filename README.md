@@ -1,9 +1,9 @@
-# AutoConnectWifiSpeaker On MacOS Ventura
-Auto Connect wifi speaker 
+# AutoConnectBTSpeaker/airpods On MacOS Ventura/moneterey
  
-1. open content of living_room_speaker_connect.app navigate  and open file /living_room_speaker_connect.app/Contents/Resources/Scripts/main.scpt
+0. Download the release app and extract it
+1. open content of living_room_speaker_connect.app by command+clicking it and navigate to open file /living_room_speaker_connect.app/Contents/Resources/Scripts/main.scpt
  
-2. In the main.scpt file change to "Living room speaker" to speaker name and save it
+2. In the main.scpt file change "Living room speaker" to speaker name and save it
 3. place in home rename as living_room_speaker_connect.app
 4. make a file .wakeup in home directory and paste the following command
 5. open ~/living_room_speaker_connect.app 
