@@ -3,7 +3,7 @@
 	1.	 Download the release app and extract it
 	2.	 open  system settings>General>login Items> open at login
 	          and select living_room_speaker_speaker_connect.app from extracted zip file
-	3.	 open content of living_room_speaker_connect.app by command+clicking it and navigate to open file      /living_room_speaker_connect.app/Contents/Resources/Scripts/main.scpt
+	3.	 open content of living_room_speaker_connect.app by command+clicking it and navigate to open file /living_room_speaker_connect.app/Contents/Resources/Scripts/main.scpt
 	4.	 
 	5.	 In the main.scpt file change "Living room speaker" to speaker name or Airpods name and save it
 	6.	 place in home rename as living_room_speaker_connect.app
